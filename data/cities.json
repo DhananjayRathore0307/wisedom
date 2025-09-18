@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "ee1d",
+      "cityName": "Faridabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-09-18T05:57:12.046Z",
+      "notes": "dsfsfa",
+      "position": {
+        "lat": "28.461540350603247",
+        "lng": "77.34375000000001"
+      }
+    },
+    {
+      "id": "b5ef",
+      "cityName": "Dehra Dun",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-09-18T05:58:58.857Z",
+      "notes": "hello",
+      "position": {
+        "lat": "30.320380836013452",
+        "lng": "78.09494018554689"
+      }
+    },
+    {
+      "id": "08d3",
+      "cityName": "Dhanaulti",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-09-18T07:20:31.781Z",
+      "notes": "heelo",
+      "position": {
+        "lat": "30.504407464578183",
+        "lng": "78.12652587890626"
+      }
+    }
+  ]
+}
